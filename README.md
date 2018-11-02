@@ -1,2 +1,2 @@
-# Basic-Portfolio-Responsive
-The Basic Portfolio project but responsive with media queries.
+# Basic-Portfolio
+First Homework Assignment
