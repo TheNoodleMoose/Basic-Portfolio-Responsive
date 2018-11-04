@@ -243,6 +243,7 @@ header nav {
     margin-top: 30px;
 }
 
+/* This media query goes into effect with the screen goes below 980px; sets the main section to 768px and max-height to 1000px;*/
 @media screen and (max-width: 980px) {
     .main-section {
         max-width: 768px;
@@ -252,7 +253,7 @@ header nav {
         margin-bottom: 50px;
     }
 }
-
+/* This goes into effect when the screen goes below 768px; */
 @media screen and (max-width: 768px) {
     .header-title {
         font-size: 1.3em;
@@ -364,6 +365,7 @@ header nav {
     }
 }
 
+/* This goes into effect when the screen goes below 640px; Unfloats header-title and the nav to go below each other and centers items */
     @media screen and (max-width: 640px) {
         .header-title {
             float: none;
