@@ -489,6 +489,13 @@ header nav {
                 background: #ffffff;
                 margin-bottom: 100px;
             }
+
+            .image-1, .image-2, .image-3 {
+                right: 30px;
+            }
+            .image-4, .image-5 {
+                left: -30px;
+            }
         }
     
     
